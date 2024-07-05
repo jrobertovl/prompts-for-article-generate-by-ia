@@ -30,7 +30,7 @@
   </a>
 <p>
 
-Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
+Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover minha autoridade técnica.
 
 <a href="https://www.dio.me/articles/atendimento-ao-cliente-transformando-orcamentos-em-vendas-e-fidelizacao" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
