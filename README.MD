@@ -86,9 +86,9 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     <p>&nbsp&nbsp&nbspJosé Roberto Vasconcellos Lopes<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/jrobertovl">GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/jrobertovl">LinkedIn</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/jrobertovl">LinkedIn</a>&nbsp;|&nbsp;
     <a href="https://www.instagram.com/jrobertovl/">Instagram</a>&nbsp;|&nbsp;
-    <a href="api.whatsapp.com/send?phone=5591982003052">WhatsApp</a>&nbsp;|&nbsp;
+    <a href="https://api.whatsapp.com/send?phone=5591982003052">WhatsApp</a>
     </p>
 </p>
 <br/><br/>
