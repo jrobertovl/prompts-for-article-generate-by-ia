@@ -53,7 +53,7 @@ ChatGPT：
 
 Lexica.art：
 
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei foram:
+No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei foram:
 
 - Atendimento;
 - Pós venda;
