@@ -55,10 +55,10 @@ Lexica.art：
 
 - No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei foram:
 
-• Atendimento;
-• Pós venda;
-• Fidelização de cliente;
-• Inovação tecnológica.
+- Atendimento;
+- Pós venda;
+- Fidelização de cliente;
+- Inovação tecnológica.
 
 
 ## ✨ Features
@@ -85,16 +85,10 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     />
     <p>&nbsp&nbsp&nbspJosé Roberto Vasconcellos Lopes<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/jrobertovl">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-jrobertovl">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/jrobertovl/">
-    Instagram</a>
-&nbsp;|&nbsp;
-<a href="api.whatsapp.com/send?phone=5591982003052">WhatsApp</a>
-&nbsp;|&nbsp;
+    <a href="https://github.com/jrobertovl">GitHub</a>&nbsp;|&nbsp;
+    <a href="www.linkedin.com/in/jrobertovl">LinkedIn</a>&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/jrobertovl/">Instagram</a>&nbsp;|&nbsp;
+    <a href="api.whatsapp.com/send?phone=5591982003052">WhatsApp</a>&nbsp;|&nbsp;
     </p>
 </p>
 <br/><br/>
@@ -102,4 +96,4 @@ jrobertovl">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [José ROberto Vasconcellos Lopes](https://github.com/jrobertovl)
+⌨️ com 💜 por [José Roberto Vasconcellos Lopes](https://github.com/jrobertovl)
